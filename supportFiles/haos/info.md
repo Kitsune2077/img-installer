@@ -5,6 +5,8 @@
 #### 默认版本16.0 haos_generic-x86-64-15.0.img.xz
 #### 出处:https://github.com/home-assistant/operating-system/releases/
 
+#### 启动后输入ddd即可开始安装流程
+
 <img src="https://github.com/user-attachments/assets/c5b02f19-12b7-463f-9e01-e080152bed66" width="50%" height="50%">
 
 <img src="https://github.com/user-attachments/assets/880fbb54-d83d-4f07-b64a-1c71a7ff57b3" width="50%" height="50%">
